@@ -1,0 +1,19 @@
+﻿  LoadData.cpp
+C:\Users\spess\source\repos\SimpleSceneRendering\SimpleSceneRendering\LoadData.cpp(81,14): error C2079: "file" использует не имеющую определения структуру class "std::basic_ifstream<char,std::char_traits<char>>"
+C:\Users\spess\source\repos\SimpleSceneRendering\SimpleSceneRendering\LoadData.cpp(81,37): error C2440: инициализация: невозможно преобразовать "const char [16]" в "int"
+C:\Users\spess\source\repos\SimpleSceneRendering\SimpleSceneRendering\LoadData.cpp(81,18): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\spess\source\repos\SimpleSceneRendering\SimpleSceneRendering\LoadData.cpp(93,12): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\spess\source\repos\SimpleSceneRendering\SimpleSceneRendering\LoadData.cpp(93,27): error C2784: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): не удалось вывести аргумент шаблон для "std::basic_istream<_Elem,_Traits> &" из "int"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\string(82): message : см. объявление "std::getline"
+C:\Users\spess\source\repos\SimpleSceneRendering\SimpleSceneRendering\LoadData.cpp(93,27): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 2
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\string(76): message : см. объявление "std::getline"
+C:\Users\spess\source\repos\SimpleSceneRendering\SimpleSceneRendering\LoadData.cpp(93,27): error C2784: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): не удалось вывести аргумент шаблон для "std::basic_istream<_Elem,_Traits> &&" из "int"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\string(70): message : см. объявление "std::getline"
+C:\Users\spess\source\repos\SimpleSceneRendering\SimpleSceneRendering\LoadData.cpp(93,27): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 2
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\string(27): message : см. объявление "std::getline"
+  Main.cpp
+  Polygon.cpp
+  Ray.cpp
+  Scene.cpp
+  Vector_3D.cpp
+  Создание кода...
