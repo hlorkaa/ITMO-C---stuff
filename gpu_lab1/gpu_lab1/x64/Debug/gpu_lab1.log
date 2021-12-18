@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\spess\source\repos\gpu_lab1\gpu_lab1\Source.cpp(23,28): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\spess\source\repos\gpu_lab1\gpu_lab1\Source.cpp(109,31): warning C4838: Преобразование из "int" в "size_t" требует сужающего преобразования.
+C:\Users\spess\source\repos\gpu_lab1\gpu_lab1\Source.cpp(109,39): warning C4838: Преобразование из "int" в "size_t" требует сужающего преобразования.
+  gpu_lab1.vcxproj -> C:\Users\spess\source\repos\gpu_lab1\x64\Debug\gpu_lab1.exe
